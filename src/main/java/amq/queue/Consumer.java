@@ -1,4 +1,4 @@
-package amq;
+package amq.queue;
 
 import javax.jms.Connection;
 import javax.jms.Destination;
